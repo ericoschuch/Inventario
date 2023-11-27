@@ -39,6 +39,8 @@
 - **Escalabilidade**: Projete a aplicação pensando na escalabilidade para lidar com o crescimento da organização e o aumento no número de ICs.
 
 
+https://chat.openai.com/share/325c8673-aab2-4d0b-8b9e-c7ff59da0f76
+
 --------------
 
 ```mermaid
@@ -207,3 +209,8 @@ erDiagram
 - **CONFIGURAÇÃO** está relacionada a APLICAÇÕES e MANUAIS, e contém CONTATOS.
 - **APLICAÇÕES** contém REPOSITÓRIOS, MANUAIS e CONTATOS.
 - **CONTATOS** contém DETALHES.
+
+https://chat.openai.com/share/39208bf0-32db-43ce-8b7d-53288cd17d82
+
+-----------
+
